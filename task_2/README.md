@@ -12,10 +12,7 @@ It demonstrates the use of Python functions, lists, dictionaries, file handling,
 Execution Command:
 
 
-Run the following from the root directory (`Synergy\_TP/`):
-
-
-
+Run the following from the root directory Synergy_TP/:
 
 python task\_2/src/main.py task\_2/data/submissions.csv task\_2/output/summary.json
 
