@@ -19,7 +19,7 @@ Run the following from the root directory (`Synergy\_TP/`):
 
 python task\_2/src/main.py task\_2/data/submissions.csv task\_2/output/summary.json
 
-\*\*3. Test and Commit\*\*
+3. Test and Commit
 
 
 Run the script to verify the terminal output and confirm the JSON file generates correctly.
